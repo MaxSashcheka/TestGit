@@ -13,8 +13,6 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("111")
-        print("222")
-        print("333")
     }
 
 
